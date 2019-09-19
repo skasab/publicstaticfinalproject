@@ -6,5 +6,5 @@ Michael Jan, Solly Kasab, David Liu, Gary Yao
 
 Enjoy!
 
-# TODO
-/item play it sometime
+## TODO ##
+*play it sometime
