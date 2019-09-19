@@ -7,4 +7,4 @@ Michael Jan, Solly Kasab, David Liu, Gary Yao
 Enjoy!
 
 ## TODO ##
-*play it sometime
+* play it again
